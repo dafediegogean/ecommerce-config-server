@@ -4,7 +4,7 @@ An microservice with Java 11, Spring Cloud Houxton SR4 and Netflix OSS
 
 ## Reference Documentation
 
-### Microservice
+### Provider Server
 
 -   currency-exchange-service
 
