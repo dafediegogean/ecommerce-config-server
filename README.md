@@ -12,10 +12,7 @@ An microservice with Java 11, Spring Cloud Houxton SR4 and Netflix OSS
 
 > **ecommerce-config-server**
 
-Module with a ecommerce config server.
-
-
-Module responsible for starting the application using the framework`@SpringBootApplication` and management for configuration via:
+Module responsible for management properties configuration via:
 
  - Git;
  - SVN;
