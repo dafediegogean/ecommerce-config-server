@@ -8,7 +8,7 @@ An microservice with Java 11, Spring Cloud Houxton SR4 and Netflix OSS
 
 > **ecommerce-config-server**
 
-Module responsible for management properties configuration via:
+Microservice responsible for management properties configuration via:
 
  - Git;
  - SVN;
