@@ -4,10 +4,6 @@ An microservice with Java 11, Spring Cloud Houxton SR4 and Netflix OSS
 
 ## Reference Documentation
 
-### Modules
-
--   ecommerce-config-server
-
 ### Description
 
 > **ecommerce-config-server**
