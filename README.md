@@ -4,6 +4,10 @@ An microservice with Java 11, Spring Cloud Houxton SR4 and Netflix OSS
 
 ## Reference Documentation
 
+### Microservice
+
+-   currency-exchange-service
+
 ### Description
 
 > **ecommerce-config-server**
