@@ -12,7 +12,7 @@ An Configuration Main Server for central management for configuration via GIT, S
 
 > **ecommerce-config-server**
 
-Microservice responsible for management properties configuration via:
+Configuration Server responsible for management properties configuration via:
 
  - Git;
  - SVN;
