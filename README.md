@@ -4,9 +4,9 @@ An Configuration Main Server for central management for configuration via GIT, S
 
 ## Reference Documentation
 
-### Provider Server
+### Configuration Server
 
--   currency-exchange-service
+-   ecommerce-config-server
 
 ### Description
 
