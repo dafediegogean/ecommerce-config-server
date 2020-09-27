@@ -1,6 +1,6 @@
 # E-commerce Config Server
 
-An microservice with Java 11, Spring Cloud Houxton SR4 and Netflix OSS
+An server for central management for configuration via GIT, SVN or HashiCorp Vault with Java 11, Spring Cloud Hoxton SR4, Spring Cloud Config Server and Spring Cloud Starter Bus
 
 ## Reference Documentation
 
